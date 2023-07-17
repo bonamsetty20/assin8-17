@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\bin\Debug\Conappex.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\bin\Debug\Conappex.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\bin\Debug\Conappex.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\obj\Debug\Conappex.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\obj\Debug\Conappex.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\obj\Debug\Conappex.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\obj\Debug\Conappex.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day 5\Conappex\Conappex\obj\Debug\Conappex.pdb
